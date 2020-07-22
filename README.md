@@ -1,11 +1,11 @@
-### Hello
- I am a student and bitwizard.
+# Hello!
+I am a student, researcher, and bitwizard.
 
-🔭 I’m currently working on ...
+**🔭 I’m currently working on ...**
  - [rvnewop](https://github.com/riscv-newop/riscv-newop): RISC-V research, creating a recommender system for specializing instruction sets.
  - [hoplite2](https://github.com/prydt/hoplite2): a framework for sparsity studies on neural networks
 
-🌱 I’m currently learning ...
+**🌱 I’m currently learning ...**
  - the Latin language 🏛️
  - Natural Language Processing
  - RISC-V Assembly
